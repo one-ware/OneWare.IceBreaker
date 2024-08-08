@@ -1,9 +1,9 @@
 {
     "category": "FPGA Boards",
     "type": "Hardware",
-    "name": "IceBreaker Support",
+    "name": "iCEBreaker Support",
     "id": "OneWare.IceBreaker",
-    "description": "IceBreaker Integration",
+    "description": "iCEBreaker Integration",
     "iconUrl": "https://www.crowdsupply.com/img/8cb1/684ee7fd-f967-4507-96fa-6e886d2b8cb1/icebreaker-iso_png_open-graph.jpg",
     "license": "MIT",
     "tabs": [

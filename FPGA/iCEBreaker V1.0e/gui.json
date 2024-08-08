@@ -1,0 +1,348 @@
+{
+  "width": 372,
+  "height": 228,
+  "elements": [
+    {
+      "type": "rect",
+      "x": 40,
+      "y": 40,
+      "width": 200,
+      "height": 148,
+      "color": "#105489",
+      "cornerRadius": "10"
+    },
+    {
+      "type": "ellipse",
+      "x": 45,
+      "y": 45,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 45,
+      "y": 173,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 225,
+      "y": 45,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 225,
+      "y": 173,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "rect",
+      "x": 70,
+      "y": 93,
+      "color": "#000000",
+      "width": 40,
+      "height": 40,
+      "text": "FTDI",
+      "fontSize": 9
+    },
+    {
+      "type": "text",
+      "x": 105,
+      "y": 80,
+      "text": "iCEBreaker\n  V1.0e",
+      "textColor": "white",
+      "fontSize": 9
+    },
+    {
+      "type": "rect",
+      "x": 160,
+      "y": 99,
+      "color": "#000000",
+      "width": 28,
+      "height": 28,
+      "rotation": 45
+    },
+    {
+      "type": "text",
+      "x": 165,
+      "y": 108,
+      "text": "FPGA",
+      "textColor": "white",
+      "fontSize": 8
+    },
+    {
+      "type": "rect",
+      "x": 250,
+      "y": 40,
+      "width": 80,
+      "height": 25,
+      "color": "#105489",
+      "cornerRadius": "4"
+    },
+    {
+      "type": "rect",
+      "x": 250,
+      "y": 74,
+      "width": 80,
+      "height": 80,
+      "color": "#105489",
+      "cornerRadius": "4"
+    },
+    {
+      "type": "rect",
+      "x": 250,
+      "y": 163,
+      "width": 80,
+      "height": 25,
+      "color": "#105489",
+      "cornerRadius": "4"
+    },
+    {
+      "type": "ellipse",
+      "x": 285,
+      "y": 79,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 285,
+      "y": 139,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 45,
+      "y": 173,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "rect",
+      "x": 160,
+      "y": 150,
+      "width": 30,
+      "height": 20,
+      "fontSize": 7,
+      "text": "FLASH",
+      "color": "#000000"
+    },
+    {
+      "type": "rect",
+      "x": 30,
+      "y": 105,
+      "color": "#BABABA",
+      "width": 25,
+      "height": 15,
+      "fontSize": 7,
+      "rotation": -90,
+      "text": "USB",
+      "textColor": "black"
+    },
+    {
+      "type": "pin",
+      "x": 10,
+      "y": 103,
+      "label": "RX",
+      "color": "RX",
+      "width": 12,
+      "height": 8,
+      "bind": "9"
+    },
+    {
+      "type": "text",
+      "x": 22,
+      "y": 100,
+      "text": "<-",
+      "fontSize": 10
+    },
+    {
+      "type": "pin",
+      "x": 10,
+      "y": 115,
+      "label": "TX",
+      "color": "TX",
+      "width": 12,
+      "height": 8,
+      "bind": "6"
+    },
+    {
+      "type": "text",
+      "x": 22,
+      "y": 112,
+      "text": "->",
+      "fontSize": 10
+    },
+    {
+      "type": "pmod",
+      "x": 60,
+      "y": 20,
+      "bind": "PMOD_1A"
+    },
+    {
+      "type": "pmod",
+      "x": 220,
+      "y": 104,
+      "rotation": 90,
+      "bind": "PMOD_2"
+    },
+    {
+      "type": "pin",
+      "x": 135,
+      "y": 40,
+      "color": "GND",
+      "label": "GND",
+      "rotation": 90
+    },
+    {
+      "type": "pin",
+      "x": 135,
+      "y": 50,
+      "color": "5V",
+      "label": "5V",
+      "rotation": 90,
+      "textColor": "white",
+      "flipLabel": true
+    },
+    {
+      "type": "pmod",
+      "x": 160,
+      "y": 20,
+      "bind": "PMOD_1B"
+    },
+    {
+      "type": "pin",
+      "x": 60,
+      "y": 70,
+      "label": "CLK",
+      "color": "darkblue",
+      "width": 12,
+      "height": 10,
+      "flipLabel": true,
+      "textColor": "white",
+      "bind": "35"
+    },
+    {
+      "type": "rect",
+      "x": 40,
+      "y": 137,
+      "color": "#BBBBBB",
+      "width": 12,
+      "height": 16
+    },
+    {
+      "type": "pin",
+      "x": 42,
+      "y": 140,
+      "label": "BTN ",
+      "color": "#C09508",
+      "width": 8,
+      "height": 10,
+      "fontSize": 10,
+      "cornerRadius": "2",
+      "textColor": "white",
+      "bind": "10"
+    },
+    {
+      "type": "pinArray",
+      "x": 80,
+      "y": 168,
+      "horizontal": true,
+      "pins": [
+        {
+          "bind": "39",
+          "label": "LED_R",
+          "color": "red"
+        },
+        {
+          "bind": "41",
+          "label": "LED_B",
+          "color": "blue"
+        },
+        {
+          "color": "GND",
+          "label": "GND"
+        },
+        {
+          "color": "3V3",
+          "label": "3V3"
+        }
+      ]
+    },
+    {
+      "type": "pinArray",
+      "x": 80,
+      "y": 178,
+      "horizontal": true,
+      "flipLabel": true,
+      "pins": [
+        {
+          "bind": "39",
+          "label": "LED_G",
+          "color": "lime"
+        },
+        {
+          "label": "1V2",
+          "color": "1V2"
+        },
+        {
+          "color": "GND",
+          "label": "GND"
+        },
+        {
+          "color": "5V",
+          "label": "5V"
+        }
+      ]
+    },
+    {
+      "type": "pinArray",
+      "x": 140,
+      "y": 178,
+      "horizontal": true,
+      "flipLabel": true,
+      "pins": [
+        {
+          "bind": "16",
+          "label": "CS"
+        },
+        {
+          "bind": "15",
+          "label": "SCK"
+        },
+        {
+          "bind": "17",
+          "label": "MOSI"
+        },
+        {
+          "bind": "14",
+          "label": "MISO"
+        },
+        {
+          "bind": "12",
+          "label": "WP"
+        },
+        {
+          "bind": "13",
+          "label": "RST"
+        },
+        {
+          "color": "GND",
+          "label": "GND"
+        }
+      ]
+    }
+  ]
+}

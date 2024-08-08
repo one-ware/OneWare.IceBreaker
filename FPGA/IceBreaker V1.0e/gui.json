@@ -56,13 +56,37 @@
       "type": "pmod",
       "x": 60,
       "y": 20,
-      "bind": "PMOD_1"
+      "bind": "PMOD_1A"
+    },
+    {
+      "type": "pmod",
+      "x": 220,
+      "y": 104,
+      "rotation": 90,
+      "bind": "PMOD_2"
+    },
+    {
+      "type": "pin",
+      "x": 135,
+      "y": 40,
+      "color": "GND",
+      "label": "GND",
+      "rotation": 90
+    },
+    {
+      "type": "pin",
+      "x": 135,
+      "y": 50,
+      "color": "5V",
+      "label": "5V",
+      "rotation": 90,
+      "flipLabel": true
     },
     {
       "type": "pmod",
       "x": 160,
       "y": 20,
-      "bind": "PMOD_2"
+      "bind": "PMOD_1B"
     }
   ]
 }

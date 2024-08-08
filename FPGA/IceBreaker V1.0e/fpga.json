@@ -170,7 +170,7 @@
   ],
   "interfaces": [
     {
-      "name": "PMOD_1",
+      "name": "PMOD_1A",
       "connector": "PMOD",
       "pins": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "PMOD_2",
+      "name": "PMOD_1B",
       "connector": "PMOD",
       "pins": [
         {
@@ -242,6 +242,44 @@
         {
           "name": "4",
           "pin": "31"
+        }
+      ]
+    },
+    {
+      "name": "PMOD_2",
+      "connector": "PMOD",
+      "pins": [
+        {
+          "name": "5",
+          "pin": "26"
+        },
+        {
+          "name": "6",
+          "pin": "23"
+        },
+        {
+          "name": "7",
+          "pin": "20"
+        },
+        {
+          "name": "8",
+          "pin": "18"
+        },
+        {
+          "name": "1",
+          "pin": "27"
+        },
+        {
+          "name": "2",
+          "pin": "25"
+        },
+        {
+          "name": "3",
+          "pin": "21"
+        },
+        {
+          "name": "4",
+          "pin": "19"
         }
       ]
     },

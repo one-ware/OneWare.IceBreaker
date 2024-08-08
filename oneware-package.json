@@ -4,7 +4,7 @@
     "name": "iCEBreaker Support",
     "id": "OneWare.IceBreaker",
     "description": "iCEBreaker Integration",
-    "iconUrl": "https://www.crowdsupply.com/img/8cb1/684ee7fd-f967-4507-96fa-6e886d2b8cb1/icebreaker-iso_png_open-graph.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/demo.png",
     "license": "MIT",
     "tabs": [
       {

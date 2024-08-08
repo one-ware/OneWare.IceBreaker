@@ -1,0 +1,68 @@
+{
+  "width": 372,
+  "height": 228,
+  "elements": [
+    {
+      "type": "rect",
+      "x": 40,
+      "y": 40,
+      "width": 200,
+      "height": 148,
+      "color": "#105489",
+      "cornerRadius": "10"
+    },
+    {
+      "type": "ellipse",
+      "x": 45,
+      "y": 45,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 45,
+      "y": 173,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 225,
+      "y": 45,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "ellipse",
+      "x": 225,
+      "y": 173,
+      "width": 10,
+      "height": 10,
+      "color": "#333333"
+    },
+    {
+      "type": "rect",
+      "x": 250,
+      "y": 40,
+      "width": 80,
+      "height": 148,
+      "color": "#105489",
+      "cornerRadius": "10"
+    },
+    {
+      "type": "pmod",
+      "x": 60,
+      "y": 20,
+      "bind": "PMOD_1"
+    },
+    {
+      "type": "pmod",
+      "x": 160,
+      "y": 20,
+      "bind": "PMOD_2"
+    }
+  ]
+}

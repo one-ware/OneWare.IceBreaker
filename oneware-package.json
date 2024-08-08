@@ -1,0 +1,37 @@
+{
+    "category": "FPGA Boards",
+    "type": "Hardware",
+    "name": "IceBreaker Support",
+    "id": "OneWare.IceBreaker",
+    "description": "IceBreaker Integration",
+    "iconUrl": "https://www.crowdsupply.com/img/8cb1/684ee7fd-f967-4507-96fa-6e886d2b8cb1/icebreaker-iso_png_open-graph.jpg",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.IceBreaker"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.IceBreaker/releases/download/1.0/OneWare.IceBreaker_1.0_all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  

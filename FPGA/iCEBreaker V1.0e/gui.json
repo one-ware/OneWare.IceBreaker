@@ -185,19 +185,7 @@
       "text": "->",
       "fontSize": 10
     },
-    {
-      "type": "pmod",
-      "x": 60,
-      "y": 20,
-      "bind": "PMOD_1A"
-    },
-    {
-      "type": "pmod",
-      "x": 220,
-      "y": 104,
-      "rotation": 90,
-      "bind": "PMOD_2"
-    },
+
     {
       "type": "pin",
       "x": 135,
@@ -216,12 +204,7 @@
       "textColor": "white",
       "flipLabel": true
     },
-    {
-      "type": "pmod",
-      "x": 160,
-      "y": 20,
-      "bind": "PMOD_1B"
-    },
+
     {
       "type": "pin",
       "x": 60,
@@ -235,8 +218,17 @@
       "bind": "35"
     },
     {
+      "type": "pin",
+      "x": 43,
+      "y": 79,
+      "label": "POWER LED ",
+      "color": "lime",
+      "width": 8,
+      "height": 10
+    },
+    {
       "type": "rect",
-      "x": 40,
+      "x": 41,
       "y": 137,
       "color": "#BBBBBB",
       "width": 12,
@@ -244,15 +236,12 @@
     },
     {
       "type": "pin",
-      "x": 42,
+      "x": 43,
       "y": 140,
       "label": "BTN ",
       "color": "#C09508",
       "width": 8,
       "height": 10,
-      "fontSize": 10,
-      "cornerRadius": "2",
-      "textColor": "white",
       "bind": "10"
     },
     {
@@ -343,6 +332,131 @@
           "label": "GND"
         }
       ]
+    },
+    {
+      "type": "pin",
+      "x": 285,
+      "y": 94,
+      "rotation": 90,
+      "bind": "23",
+      "color": "lime"
+    },
+    {
+      "type": "pin",
+      "x": 271,
+      "y": 109,
+      "rotation": 90,
+      "bind": "27",
+      "color": "lime"
+    },
+    {
+      "type": "pin",
+      "x": 285,
+      "y": 109,
+      "rotation": 90,
+      "bind": "26",
+      "color": "red"
+    },
+    {
+      "type": "pin",
+      "x": 299,
+      "y": 109,
+      "rotation": 90,
+      "bind": "25",
+      "color": "lime"
+    },
+    {
+      "type": "pin",
+      "x": 285,
+      "y": 123,
+      "rotation": 90,
+      "bind": "21",
+      "color": "lime"
+    },
+    {
+      "type": "rect",
+      "x": 312,
+      "y": 80,
+      "color": "#BBBBBB",
+      "width": 16,
+      "height": 12
+    },
+    {
+      "type": "pin",
+      "x": 315,
+      "y": 82,
+      "label": " BTN 1",
+      "color": "#C09508",
+      "width": 10,
+      "height": 8,
+      "flipLabel": true,
+      "bind": "20"
+    },
+    {
+      "type": "rect",
+      "x": 312,
+      "y": 108,
+      "color": "#BBBBBB",
+      "width": 16,
+      "height": 12
+    },
+    {
+      "type": "pin",
+      "x": 315,
+      "y": 110,
+      "label": " BTN 2",
+      "color": "#C09508",
+      "width": 10,
+      "height": 8,
+      "flipLabel": true,
+      "bind": "19"
+    },
+    {
+      "type": "rect",
+      "x": 312,
+      "y": 136,
+      "color": "#BBBBBB",
+      "width": 16,
+      "height": 12
+    },
+    {
+      "type": "pin",
+      "x": 315,
+      "y": 138,
+      "label": " BTN 3",
+      "color": "#C09508",
+      "width": 10,
+      "height": 8,
+      "flipLabel": true,
+      "bind": "18"
+    },
+    {
+      "type": "pmod",
+      "x": 60,
+      "y": 20,
+      "bind": "PMOD_1A"
+    },
+    {
+      "type": "pmod",
+      "x": 160,
+      "y": 20,
+      "bind": "PMOD_1B"
+    },
+    { 
+      "type": "pmod",
+      "x": 230,
+      "y": 104,
+      "rotation": 90,
+      "connectorStyle": "compact",
+      "bind": "PMOD_2"
+    },
+    {
+      "type": "pmod",
+      "x": 200,
+      "y": 104,
+      "rotation": 90,
+      "connectorStyle": "compact",
+      "bind": "PMOD_1"
     }
   ]
 }

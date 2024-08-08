@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "PMOD_2",
+      "name": "PMOD_1",
       "connector": "PMOD",
       "pins": [
         {
@@ -279,6 +279,44 @@
         },
         {
           "name": "4",
+          "pin": "19"
+        }
+      ]
+    },
+    {
+      "name": "PMOD_2",
+      "connector": "PMOD",
+      "pins": [
+        {
+          "name": "1",
+          "pin": "26"
+        },
+        {
+          "name": "2",
+          "pin": "23"
+        },
+        {
+          "name": "3",
+          "pin": "20"
+        },
+        {
+          "name": "4",
+          "pin": "18"
+        },
+        {
+          "name": "5",
+          "pin": "27"
+        },
+        {
+          "name": "6",
+          "pin": "25"
+        },
+        {
+          "name": "7",
+          "pin": "21"
+        },
+        {
+          "name": "8",
           "pin": "19"
         }
       ]

@@ -142,52 +142,14 @@
       "color": "#000000"
     },
     {
-      "type": "rect",
-      "x": 30,
-      "y": 105,
-      "color": "#BABABA",
-      "width": 25,
-      "height": 15,
-      "fontSize": 9,
-      "rotation": -90,
-      "text": "USB",
-      "textColor": "black"
+      "type": "usb",
+      "x": 20,
+      "y": 93,
+      "flipLabel": true,
+      "rxBind": "6",
+      "txBind": "9",
+      "rotation": -90
     },
-    {
-      "type": "pin",
-      "x": 10,
-      "y": 103,
-      "label": "RX",
-      "color": "RX",
-      "width": 12,
-      "height": 8,
-      "bind": "9"
-    },
-    {
-      "type": "text",
-      "x": 22,
-      "y": 100,
-      "text": "<-",
-      "fontSize": 10
-    },
-    {
-      "type": "pin",
-      "x": 10,
-      "y": 115,
-      "label": "TX",
-      "color": "TX",
-      "width": 12,
-      "height": 8,
-      "bind": "6"
-    },
-    {
-      "type": "text",
-      "x": 22,
-      "y": 112,
-      "text": "->",
-      "fontSize": 10
-    },
-
     {
       "type": "pin",
       "x": 135,

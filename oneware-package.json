@@ -40,6 +40,16 @@
             "url": "https://github.com/one-ware/OneWare.IceBreaker/releases/download/1.1/OneWare.IceBreaker-1.1-all.zip"
           }
         ]
+      },
+      {
+        "version": "1.2",
+        "minStudioVersion": "0.21.1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.IceBreaker/releases/download/1.1/OneWare.IceBreaker-1.1-all.zip"
+          }
+        ]
       }
     ]
   }

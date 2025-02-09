@@ -146,8 +146,8 @@
       "x": 20,
       "y": 93,
       "flipLabel": true,
-      "rxBind": "6",
-      "txBind": "9",
+      "rxBind": "9",
+      "txBind": "6",
       "rotation": -90
     },
     {
